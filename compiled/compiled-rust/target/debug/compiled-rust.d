@@ -1,0 +1,1 @@
+C:\Users\ACER\OneDrive\Documents\MadeByMe\Low\ level\CustomNoter\compiled\compiled-rust\target\debug\compiled-rust.exe: C:\Users\ACER\OneDrive\Documents\MadeByMe\Low\ level\CustomNoter\compiled\compiled-rust\src\main.rs
